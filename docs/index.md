@@ -10,7 +10,7 @@ You can submit either directly below or via this link: <https://app.nocodb.com/n
 
 ## Current map
 
-As submissions come in, all of the reported information will be made available in this map below (or view via [this link](https://app.nocodb.com/nc/map/5de85cf3-eece-4a6f-a25a-1c003841a5b9).
+As submissions come in, all of the reported information will be made available in this map below (or view via [this link](https://app.nocodb.com/nc/map/5de85cf3-eece-4a6f-a25a-1c003841a5b9)).
 
 <iframe src="https://app.nocodb.com/nc/map/5de85cf3-eece-4a6f-a25a-1c003841a5b9" width="100%" height="600px" style="border: none;"></iframe>
 
@@ -25,7 +25,7 @@ Lately, I think I've experienced this myself, or heard from others or read onlin
 
 ### Why is it problematic?
 
-For the case of gay bars as an example, it is already worrisome as sensitive information of those in the LGBTQ community may be stored and shared with who-knows-who. And generally, this means that those in vulnerable communities are subject under such privacy-invading practices when they go out just to have fun. It is especially concerning under the current political climate, as well as various reports of data breaches and corporate surveillance of Big Tech. 
+For the case of gay bars as an example, it is already worrisome as sensitive information of those in the LGBTQ community may be stored and shared with who-knows-whom-else. One of the reasons why businesses do this is to identify and share with one another information about potential troublesome individuals. But in essence, consumers are likely trading away their privacy to attain such services. Those in vulnerable communities could be subject under such privacy-invading practices when they go out just to have fun. It is especially concerning under the current political climate, as well as various reports of data breaches and corporate surveillance of Big Tech. 
 
 The barcode of your ID card contains private and sensitive information, such as name, date of birth, and address. The difference between a physical verification (i.e., just looking) and electronic scanning is that all this information comes in a structured format and can be stored, transfered, and shared with other parties. The person selling you a beer can choose to just look at your birth year and then forget, but electronic methods record not only your information but your association with such purchases, then allow sharing with additional parties, likely without your consent or knowledge.
 
