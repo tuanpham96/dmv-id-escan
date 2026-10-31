@@ -2,14 +2,15 @@
 
 ## The ask
 
-To understand whether ID scanning is widespread in the DMV area, I've created a short survey to crowd-source the businesses, specifically those in the service industry (e.g., bars, liquor stores) in DMV, that electronically scan people's ID cards to provide restricted services. This is, instead of just looking at the card to verify age or identity, a machine such as a portable hand-held scanner is involved. 
+To understand whether ID scanning is widespread across DMV local businesses, I've created a short survey to crowd-source the businesses, specifically those in the service industry (e.g., bars, liquor stores) in DMV, that electronically scan people's ID cards to provide restricted services. This is, instead of just looking at the card to verify age or identity, a machine such as a portable hand-held scanner is involved. 
+
 You can submit either directly below or via this link: <https://app.nocodb.com/nc/form/2c2447de-556b-42d6-8049-a433f58154b4>
 
-<iframe src="https://app.nocodb.com/nc/form/2c2447de-556b-42d6-8049-a433f58154b4" width="100%" height=600px" style="border: none;"></iframe>
+<iframe src="https://app.nocodb.com/nc/form/2c2447de-556b-42d6-8049-a433f58154b4" width="100%" height="600px" style="border: none;"></iframe>
 
 ## Current map
 
-As people submit, all of the reported information will be made available in this map below.
+As submissions come in, all of the reported information will be made available in this map below (or view via [this link](https://app.nocodb.com/nc/map/5de85cf3-eece-4a6f-a25a-1c003841a5b9).
 
 <iframe src="https://app.nocodb.com/nc/map/5de85cf3-eece-4a6f-a25a-1c003841a5b9" width="100%" height="600px" style="border: none;"></iframe>
 
@@ -37,4 +38,9 @@ In the San Francisco case, there are legal arguments to be made to restrict, and
 It may also be tricky as the DMV area may be subject to three different jurisdictions. And even if there's some privacy or data protection law, we also have to be worried about the extent to which businesses and those third-party scanning services actually comply with the requirements set out by the relevant laws. 
 
 If there is anyone with legal expertise in the matter, I'd love to know more; my email is `tuanhpham[AT]pm[DOT]me`. In the mean time, I want to know how egregious ID scanning is in the area, and hopefully such information could be useful for someone. At least we can have some sense of how serious it is, or maybe not at all.
+
+## Crowdmapping solution?
+
+As of now, I am using [NoCoDB](https://nocodb.com/) to gather records with some mapping features. I explored with a couple of crowdmapping solutions and found this to be sufficient (open-source, good enough searching capabilities, and does not require a GoogleMap API key to function). I am generally a novice when it comes to spatial/map stuff generally. If there's an issue or if you have suggestions, please let me know!
+
 
